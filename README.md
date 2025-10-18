@@ -5,7 +5,7 @@ I'm a programmer, who's currently focused on web development with **FastAPI**, *
 
 Currently, I'm working on:
 - **A bill splitter web-app** (planning to port it to an android app, too). This project was a team hackathon submission for [HZS 7.0](https://hzs.fonis.rs/), which we continued to develop afterwards.
-- **A social media app**, similar to Instagram. I'm making this web-app to expand my knowledge of fullstack development, and to learn better how to use third-party software (Supabase for db, Cloudinary for image storage)
+- **A social media app**, similar to Instagram. I'm making this web-app to expand my knowledge of fullstack development
 - A studying-oriented **textbook about data structures and algorithms**
 
 Technologies I use:
